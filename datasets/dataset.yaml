@@ -1,0 +1,5 @@
+train: /Users/harrison/Documents/RND/modelId/datasets/images/train
+val: /Users/harrison/Documents/RND/modelId/datasets/images/val
+
+nc: 1  # Number of classes
+names: ['ID']  # List your class names here

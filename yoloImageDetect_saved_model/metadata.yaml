@@ -1,0 +1,14 @@
+description: Ultralytics YOLOImageDetect model trained on coco.yaml
+author: Ultralytics
+date: '2024-08-29T16:27:33.002708'
+version: 8.2.82
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: ID
